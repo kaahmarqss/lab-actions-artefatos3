@@ -1,1 +1,1 @@
-<script>console.log('Oi mundo');</script>
+console.log('teste do teste 3');
