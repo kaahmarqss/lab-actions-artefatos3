@@ -48,3 +48,8 @@ jobs:
 
       - name: Mostrar conteúdo do relatório
         run: cat relatorio1.txt
+
+      - name: Verificar arquivos baixados
+        run: |
+          ls -R
+          cat relatorio1.txt
